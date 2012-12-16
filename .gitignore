@@ -1,0 +1,11 @@
+BUGS
+LICENSE
+Makefile
+README
+TODO
+config.def.h
+config.mk
+dwm.1
+dwm.c
+dwm.png
+transient.c
